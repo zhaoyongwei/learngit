@@ -2,3 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git is very useful.
 Git state first change.
+study hard,go,go,go.
